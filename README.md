@@ -30,7 +30,7 @@ It also receives the highest number of reviews (75%) and is the most popular roo
 - **Prices tend to increase during holidays**, indicating higher demand during these periods.
 
 **4. Room Type Availability:**
-- **Private room and entire home/apartment** have the highest availability throughout the year.
+**Private room and entire home/apartment** have the highest availability throughout the year.
 
 **5. Property Ownership:**
 
