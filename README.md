@@ -64,5 +64,5 @@ It also receives the highest number of reviews (75%) and is the most popular roo
 
 In summary, this analysis provides valuable insights for travel consultants, business development, and customers, facilitating informed decisions and enhancing travel experiences in Bangkok.
 
-Further visualization can be seen via the following **link in Tableau**: [https://public.tableau.com/views/Capstone_Modul2_Airbnb/CapstoneModul2AirbnbListingBangkok?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link](url)
+Further visualization can be seen via the following **link in Tableau**: [here]([url](https://public.tableau.com/app/profile/annisa.maulinda/viz/Capstone_Modul2_Airbnb/CapstoneModul2AirbnbListingBangkok)https://public.tableau.com/app/profile/annisa.maulinda/viz/Capstone_Modul2_Airbnb/CapstoneModul2AirbnbListingBangkok)
 
