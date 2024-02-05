@@ -1,19 +1,19 @@
 # Project Overview - Capstone Modul 2 (Airbnb Listings in Bangkok)
 
-# Background:
+### Background:
 As a **Travel Agent** who committed to providing more personalized travel packages and meeting customer preferences, we want to understand in more depth the condition of the rental property market in various destinations. Our main goal is to put together attractive travel packages and provide recommendations for places to stay that suit each customer's unique preferences.
 
 In addition, we realize that more and more people are choosing to travel alone without joining a tour package. To support these independent travelers, as **Travel Consultants**, we want to provide accurate and relevant information regarding the conditions of the places they will visit. However, many of them still need help in understanding market trends and housing options in each different region.
 
-# Problem Statement:
+### Problem Statement:
 Travel agents possess insights into living conditions across various destinations and trends in the rental property market. The analysis of this Airbnb dataset aims to provide in-depth insights for travel consultants, enabling them to make more informed decisions and offer tailored recommendations for solo travelers.
 
 This analysis is crucial for our Business Development team, supporting the expansion of information about rental properties and enhancing the services we provide. **The analysis will address several key questions related to popular neighborhoods, room types, price trends, room type availability, property ownership, review trends, and length of stay**.
 
-# Data Understanding:
+### Data Understanding:
 The analysis will be based on the **distribution of properties in Thailand collected via the Airbnb platform**. Airbnb is chosen due to its diverse property and room type offerings, allowing for recommendations that align with customer preferences. Thailand is selected as it is a popular tourist destination offering a range of experiences, from beautiful beaches and rich culture to vibrant nightlife.
 
-# Conclusion:
+### Conclusion:
 
 **1. Popular Neighbourhood:**
 
@@ -48,7 +48,7 @@ It also receives the highest number of reviews (75%) and is the most popular roo
 - **Entire home/apartment** is the most common room type with a minimum stay of one day.
 
 
-# Recommendations:
+### Recommendations:
 
 **For Business Development:** 
 
