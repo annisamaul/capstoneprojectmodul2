@@ -15,34 +15,34 @@ The analysis will be based on the **distribution of properties in Thailand colle
 
 # Conclusion:
 
-> **1. Popular Neighbourhood:**
+**1. Popular Neighbourhood:**
 
 The **top 5 districts in Bangkok** with the highest number of properties and reviews are **Vadhana, Khlong Toei, Huai Khwang, Ratchathewi, and Bang Rak**.
 These districts offer diverse experiences, reflecting the richness of Bangkok. Affordability and efficient public transportation contribute to their popularity.
 
-> **2. Room Type:**
+**2. Room Type:**
 
 **Entire home/apartment is the most offered room type**, comprising 56.2% of listings.
 It also receives the highest number of reviews (75%) and is the most popular room type in the five popular districts.
 
-> **3. Trend of Price:**
+**3. Trend of Price:**
 - **Property prices in Bangkok fluctuate annually**, influenced by factors such as events and the COVID-19 pandemic.
 - **Prices tend to increase during holidays**, indicating higher demand during these periods.
 
-> **4. Room Type Availability:**
-**Private room and entire home/apartment** have the highest availability throughout the year.
+**4. Room Type Availability:**
+- **Private room and entire home/apartment** have the highest availability throughout the year.
 
->> **5. Property Ownership:**
+**5. Property Ownership:**
 
 - Property ownership is distributed across various districts on the Airbnb platform.
 - **Entire home/apartment** remains a top choice, attracting significant reviews.
 
-> **6. Trend of Reviews:**
+**6. Trend of Reviews:**
 
 - **The number of reviews shows fluctuations from 2012 to 2022**, with a significant increase in 2022.
 - **Entire home/apartment continues to dominate**, indicating sustained popularity.
 
-> **7. Length of Stay:**
+**7. Length of Stay:**
 
 - Properties with a **minimum stay of one day** receive the highest number of reviews.
 - **Entire home/apartment** is the most common room type with a minimum stay of one day.
@@ -50,14 +50,14 @@ It also receives the highest number of reviews (75%) and is the most popular roo
 
 # Recommendations:
 
-> **For Business Development:** 
+**For Business Development:** 
 
 - Include facilities and amenities data for deeper property analysis.
 - Conduct customer satisfaction surveys to enhance targeted analysis.
 - Explore collaboration with Airbnb for exclusive offers and commissions.
 - Leverage Airbnb integration for advanced data analysis.
 
-> **For Customers:**
+**For Customers:**
 
 - Recommend **entire home/apartment** for its flexibility and affordability. Ideal for group travel due to numerous choices and available facilities.
 
